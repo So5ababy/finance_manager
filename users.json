@@ -1,0 +1,1 @@
+{"1":{"login":"1","password":"1","wallet":{"balance":2700.0,"transactions":[{"sum":4000.0,"category":"бонус","type":"доход"},{"sum":300.0,"category":"кофе","type":"расход"},{"sum":500.0,"category":"кофе","type":"расход"},{"sum":500.0,"category":"Кофе","type":"расход"}],"categoryLimit":{"Кофе":3000.0},"categorySpent":{"кофе":800.0,"Кофе":500.0}}}}
